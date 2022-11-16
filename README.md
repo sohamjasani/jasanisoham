@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:jasanisoham80@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
   
   
-<a href="https://www.instagram.com/_s_g_patel_/" target="_blank"><img src="https://img.shields.io/badge/-@hadi.code-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/_s_g_patel_/" target="_blank"><img src="https://img.shields.io/badge/-@_s_g_patel_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
   
