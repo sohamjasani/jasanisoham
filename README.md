@@ -4,7 +4,7 @@ jasanisoham/jasanisoham is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 
 ### 🛠 &nbsp;Tech Stack
