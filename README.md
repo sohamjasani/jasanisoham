@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm SOHAM JASANI</h1>
 
 ### 🛠 &nbsp;Languages and Tools
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
