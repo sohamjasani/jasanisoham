@@ -1,19 +1,17 @@
-
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm SOHAM JASANI</h1>
 <!---
 jasanisoham/jasanisoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h3 align="center">A passionate Mobile App Developer</h3>
+
+
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
-
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm SOHAM JASANI</h1>
-
 
 
 ### 🛠 &nbsp;Languages and Tools
